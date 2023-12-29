@@ -10,7 +10,7 @@
         },
         "chart2":
         {
-            "series": ["522", "412", "122", "81", "43"],
+            "series": [522, 412, 122, 81, 43],
             "labels": ["Ha Noi", "Ho Chi Minh", "Hai Phong", "Ha Tinh", "Other"]
         }
 
